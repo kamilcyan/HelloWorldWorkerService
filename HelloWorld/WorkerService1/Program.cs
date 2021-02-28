@@ -14,7 +14,6 @@ namespace WorkerService1
             Host.CreateDefaultBuilder(args)
                 .ConfigureServices((context, collection) =>
                 {
-                    //collection.AddHostedService<KafkaConsumerHostedService>();
                     collection.AddHostedService<KafkaProducerHostedService>();
                 });
     }
