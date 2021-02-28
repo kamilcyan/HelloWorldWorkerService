@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk.Worker">
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>dotnet-WorkerService1-A31D0221-285F-4D87-86C8-0F7893FC1868</UserSecretsId>
+    <UserSecretsId>dotnet-WorkerService2-AA34AB5B-4B80-4606-BFC5-09AFF1959111</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
